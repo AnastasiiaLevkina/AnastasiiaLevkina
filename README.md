@@ -1,4 +1,4 @@
-# My name is Anastasiia, welcome to my page
+# Hi there 👋 I'm Anastasiia!
 - I am currently studying at Institut Tecnològic de Barcelona 🏫
 - I am an intern at a Software Development company 💻
 
