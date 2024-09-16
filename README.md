@@ -3,5 +3,5 @@
 - I am currently studying at Institut Tecnològic de Barcelona 🏫
 - I am an intern at a Software Development company 💻
 - I work with [HTML and JavaScript](https://github.com/AnastasiiaLevkina/Calculadora-2.0) 🛡️
-- And [React]([https://github.com/AnastasiiaLevkina/MinesweeperReactProject](https://github.com/tonirecio/minesweeper-2024/tree/AnastasiiaLevkina)) ⚛️
+- And [React](https://github.com/tonirecio/minesweeper-2024/tree/AnastasiiaLevkina) ⚛️
 - Check out my [projects](https://github.com/AnastasiiaLevkina?tab=repositories) 🗃️
