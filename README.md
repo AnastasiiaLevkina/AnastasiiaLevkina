@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1831F7&width=435&lines=Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
 # Hi there 👋 I'm Anastasiia!
 - I am currently studying at Institut Tecnològic de Barcelona 🏫
 - I am an intern at a Software Development company 💻
